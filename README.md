@@ -1,2 +1,0 @@
-# praveenvangala.in
-personal website
