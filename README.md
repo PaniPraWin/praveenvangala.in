@@ -1,2 +1,2 @@
 # praveenvangala.in
-This personal portfolio website
+This is personal portfolio website
